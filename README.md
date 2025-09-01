@@ -88,11 +88,10 @@ ai-interview-coach/
 
 ---
 
-## 🔹 Sample Roles Available  
+## 🔹 Sample Interview Available  
 - Software Engineer  
-- Data Analyst  
-- Machine Learning Engineer  
-*(more can be added in `data/interview_questions/`)*  
+- Data Scientist
+- HR Interview
 
 ---
 
